@@ -24,6 +24,16 @@ public class restApiTest {
 		System.out.println("Git hub chnage2");
 		
 	}
+	
+	
+	@Test
+	public void preJira5()
+	{
+		System.out.println("Git hub chnage3");
+		System.out.println("Git hub chnage4");
+		System.out.println("Git hub chnage5");
+		
+	}
 
 
 }
